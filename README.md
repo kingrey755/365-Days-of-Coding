@@ -58,19 +58,6 @@ During these 365 days, I want to:
 
 ---
 
-## 📅 The Journey
-
-| Day |    Date    | Status |
-| --: | :--------: | :----: |
-| 001 | 01/09/2026 |   🟢   |
-| 002 | 02/09/2026 |    ⚪   |
-| 003 | 03/09/2026 |    ⚪   |
-| ... |     ...    |   ...  |
-| 365 | 31/08/2027 |   🏆   |
-
-> **Goal:** Turn the entire table green.
-
----
 
 ## 🔥 Streak
 
