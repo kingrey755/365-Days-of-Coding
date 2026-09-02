@@ -4,7 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2CFF&height=220&section=header&text=365%20Days%20of%20Coding&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=01%2F09%2F2026%20%E2%86%92%2031%2F08%2F2027&descAlignY=58&descSize=20" />
 
-### 💻 One Day. One Commit. Every Day. For 365 Days.
 
 [![Started](https://img.shields.io/badge/Started-01%2F09%2F2026-00F5FF?style=for-the-badge)](https://github.com/kingrey755)
 [![Duration](https://img.shields.io/badge/Duration-365%20Days-7B2CFF?style=for-the-badge)](https://github.com/kingrey755)
@@ -19,19 +18,11 @@
 
 Starting **1 September 2026**, I am committing to **365 consecutive days of coding**.
 
-No excuses.
-
-No skipped days.
-
-No "I'll do it tomorrow."
-
 For an entire year, I will build, experiment, learn, solve problems and improve my programming skills.
 
-### And there's a catch...
+### However...
 
 **Everything will be coded on my iPhone 12.**
-
-That means this challenge isn't about having the best hardware.
 
 It's about proving that **consistency and creativity matter more than equipment.**
 
@@ -82,9 +73,6 @@ Each day gets its own file.
 ├── Day-003
 └── Day-365
 ```
-
-
-# 📱 Coded Entirely on an iPhone
 
 One of the main rules of this challenge is simple:
 
