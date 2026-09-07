@@ -1,0 +1,5 @@
+text = input("text: ")
+words = text.split()
+print("Word Count: ",len(words))
+print("Characters", len(text))
+print("Longest Word:", max(words, key=len)
